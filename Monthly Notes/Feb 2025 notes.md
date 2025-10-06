@@ -46,3 +46,4 @@
 - [RLHF book](https://news.ycombinator.com/item?id=42902936)
 	- [PPO and GRPO](https://yugeten.github.io/posts/2025/01/ppogrpo/)
 	- [GRPO](https://x.com/nrehiew_/status/1885079616248832090): "GRPO gets rid of the Value Model and NOT the Reward Model. This is the main insight since you save memory. The main change between PPO and GRPO is the way the advantage is calculated. PPO uses the Value Model to compute the advantage while GRPO computes the advantage by normalizing against the rollouts in each group."
+<!-- Auto-update: 2025-10-07T02:24:05.920544 -->
