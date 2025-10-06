@@ -493,3 +493,4 @@ Misc other things we found noteworthy reads from this month
 	- [vongoom - intentional data poisoning](https://twitter.com/sterlingcrispin/status/1735346124519817487?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [google gemini to q* paper](https://x.com/_aidan_clark_/status/1741808745720467819?s=20)
 	- [Cybertron](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16) - [UNA models](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard/discussions/444) getting discredited, causing [leaderboard drama](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard/discussions/444#657c12befcba5f698c2e3fed)
+<!-- Auto-update: 2025-10-06T20:23:20.466055 -->
